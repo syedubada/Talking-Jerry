@@ -466,7 +466,7 @@ const App: React.FC = () => {
             {gameState === GameState.PRE_GAME ? <IntroScreen /> : <GameScreen />}
 
             <footer className="absolute bottom-4 text-gray-500 text-sm z-10">
-                Powered by Google Gemini
+                Powered by Syed Ubada
             </footer>
         </div>
     );
