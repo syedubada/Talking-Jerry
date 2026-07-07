@@ -1,0 +1,7 @@
+{
+  "name": "Talking Jerry AI",
+  "description": "A fun, interactive game where you can talk to Jerry. He'll repeat what you say, or if you ask a question, he'll answer it like a smart AI mouse! Built with Gemini for a pro-level experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
