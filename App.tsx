@@ -1,3 +1,4 @@
+// Hello World
 import React, { useState, useRef, useCallback, useEffect } from 'react';
 import { GoogleGenAI, LiveServerMessage, Modality, FunctionDeclaration, Type } from '@google/genai';
 import { GameState, JerryReaction, GameMode } from './types';
